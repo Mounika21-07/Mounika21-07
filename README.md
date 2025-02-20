@@ -6,7 +6,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## What Have I Done?
 
-My portfolio includes a diverse range of projects showcasing my data analysis and visualization skills. I have worked on retail sales analysis, customer behavior analysis, airline database insights, and funnel analysis of a food delivery app. These projects involve data wrangling, KPI tracking, interactive dashboards, and SQL-based insights. Each project demonstrates my ability to extract meaningful conclusions and present them in a way that supports strategic decision-making.
+My portfolio includes a diverse range of projects showcasing my data analysis and visualization skills. I have worked on retail sales analysis, customer behavior analysis, airline database insights, and funnel analysis of a food delivery app. These projects involve data mining, KPI tracking, interactive dashboards, and SQL-based insights. Each project demonstrates my ability to extract meaningful conclusions and present them in a way that supports strategic decision-making.
 
 In addition to business intelligence and operational analysis, I have explored areas like predictive analytics, customer segmentation, and performance monitoring. My projects span multiple industries, including e-commerce, delivery applications, and customer service operations. 
 
